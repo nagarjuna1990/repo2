@@ -1,0 +1,4 @@
+this is file3
+
+it is a text document.
+
