@@ -1,0 +1,6 @@
+
+this is file2
+
+having some data about devops
+
+for practice purpose.
